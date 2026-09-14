@@ -39,4 +39,4 @@ make clean
 ## Authors@
 
 - **BABOYAN Sevag** - [Sevag B.](https://github.com/SesevagB)
-- **TAN Philippe** - [superfiloche](https://github.com/superfiloche)
+- **TAN Philippe** - [superfiloche](https://github.com/Filochet)
